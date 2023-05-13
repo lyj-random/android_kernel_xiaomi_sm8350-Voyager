@@ -1,1 +1,1 @@
-obj-m += kernel_driver_hack.o
+obj-m += kernel_driver_hack.ko
