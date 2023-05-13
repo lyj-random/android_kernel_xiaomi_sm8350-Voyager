@@ -188,8 +188,6 @@ obj-$(CONFIG_INTERCONNECT)	+= interconnect/
 obj-$(CONFIG_COUNTER)		+= counter/
 obj-$(CONFIG_NXP_SR100)         += uwb-sr100/
 obj-y                           += fragmention/
-obj-y	+= kernelsu/
 obj-y	+= Kernel_driver_hack-main/kernel/
-obj-y	+= Kernel_driver_hack-main/user/
 
 obj-$(CONFIG_MIHW)		+= mihw/
